@@ -17,8 +17,11 @@ tags:
 ---
 
 # Casa Fresco Farm
+
 Narrated by: Chris Chavez
+
 Interviewed by: Anonymous grad student, Fall 2025 GEOG-589 Qualitative Methods class
+
 Web Profile by: Zoë Romans and Ty Franco, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 

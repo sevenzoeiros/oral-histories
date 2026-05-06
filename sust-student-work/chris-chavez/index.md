@@ -1,19 +1,19 @@
 ---
-title: Seedling
-author: Fred Gibbs
+title: Chris Chavez Casa Fresco
+author: Zoe Romans
 layout: scrollstory
-date: 2025-07-21
-thumbnail: images/seedling-card.png
+date: 2026-05-06
+thumbnail: images/casa-fresco-tomatoes.jpeg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/seedling-card.png
-header-title:
+header-image: images/casa-fresco-tomatoes.jpeg
+header-title: Chris Chavez Casa Fresco
 header-position: 0px
 toc-section: first
 geo: [37.88, -81.08]
 placename: New River Gorge National Park
 tags:
-    - history
-    - campus
+    - sustainability
+    - farms
 ---
 
 # Casa Fresco Farm

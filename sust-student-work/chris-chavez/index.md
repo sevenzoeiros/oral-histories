@@ -33,20 +33,16 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/mvh-history-stays.jpg"
 %}
 
-Grandparents from chilalee land grant, cattle ranchers
-Grew up in middle valley 
-“ We did a lot of the cow stuff, too. We got to do the branding, and we’d move cows around and stuff like that. So, that was what started, later on in life, a passion of wanting to be outdoors and get into farming and agriculture in general.”
+Casa Fresco Farm owner Chris Chavez got into farming through a mix of family influence, personal transformation, and a desire to create a better life for his children. Growing up in Albuquerque, Chris spent much of his childhood helping at his grandparents’ cattle ranch in the Chilili Land Grant. Those experiences outdoors gave him an appreciation for agriculture and food production from an early age. However, his path into farming did not fully begin until adulthood when he was working in concrete construction and became a father.
+Chris explained, 
+> “I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
 
-“I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed. My wife was going to go to work, and we wanted a parent to be here with him. So, I decided to quit. And then I was doing concrete on the side, and I started looking into going back to school. That's what got me thinking about agriculture”
-Attended Grow the Growers Program 
- That's where I learned the drip system and intensive growing -- the 30 inch beds. I
-I learned it there and that same year I implemented everything that I was doing over there at this spot down here. So, that was a positive thing because I could go from one to the other. The Grow the Grower's program was where I learned a lot of the stuff.
-Learned about agriculture and irritation systems
-Leased a small plot of land to start his farm 
-Property and home in the South Valley 
-Second property in the South Valley as well. 
+Wanting more time with his family, he decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
+Through the program, Chris learned farming skills and growing techniques. 
+>He said, “That’s where I learned the drip system and intensive growing — the 30 inch beds.” He immediately applied those lessons to his own property, 
+Explaining, “I learned it there and that same year I implemented everything that I was doing over there at this spot down here.”
+ The program gave him the confidence and knowledge to transform his small backyard garden into a successful farming operation rooted in family, sustainability, and community.
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 

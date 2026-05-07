@@ -25,7 +25,7 @@ Interviewed by: Anonymous grad student, Fall 2025 GEOG-589 Qualitative Methods c
 Web Profile by: Zoë Romans and Ty Franco, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 
-## How Chris got into farming…
+## Getting into Farming…
 {% include images/figure.html
 class="right"
 width="48%"
@@ -52,7 +52,7 @@ Notice the caption below the image includes a clickable source link. This is how
 
 [^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
 
-## Current Farming/Innovation/Business Side
+## What It's Like to be a Farmer in New Mexico
 To keep his business thriving, Chris states that farming and selling produce is his most important priority. He sells primarily at the Downtown Growers Market, MoGro, and New Mexico Harvest, with the addition of Three Sisters Kitchen and The American Friends Service Committee as occasional buyers. Some logistics in running an agricultural business includes getting insurance, food safety permits, and water tests covered, all of which have increased in costs in recent years -- i.e. a raw food permit went from being $15 in prior years to $50 in 2025. 
 
 Farming demands a plentiful selection of tools, so Chris's undeniable skill at innovation is opportune. With the help of a welder's tool, most likely a soldering iron, he built his own tiller from his kid's old bike and made a manual root washer with an attached spraying hose to wash produce. In addition to these, he uses a hand weeder and bed roller to tend to his land. Chris received grants from the Natural Resources Conservation Service (NRCS) for cover cropping seeds and his hoop house -- a contentious project with his neighbors; he was finally able to get it established underneath a massive cottonwood tree, a location he chose due to the pleasant heat bank that's formed around it. The Farmer's Market Association provided Chris with a grant to get his cold storage setup -- he uses CoolBot technology attached to a window AC unit within an insulated Tough Shed that keeps the indoor climate at 32-38 degrees fahrenheit for storing vegetables.
@@ -60,15 +60,17 @@ Farming demands a plentiful selection of tools, so Chris's undeniable skill at i
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+caption="Chris in 2020 building the hoop house" [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/chris-hoop-house.jpeg"
 %}
 
-Audio clip from 59:07-1:00:40
+{% include media/audio.html
+  src="audio/Engineering Mind.mp3"
+%}
 
 There's a flexibility that's offered by being a farmer that can't be found in other professions. When Chris's wife's alternator broke, he found the time to replace it, when his boys need to get dropped off at school, he's able to take care of their needs. This by no means infers that it's an easy job, there's so much labor to do that when winter comes, it was initially troubling for Chris to discern what to do with his lessened workload. He took his days to fix and build things, along with "taking the time in the winter to contemplate, relax, and enjoy". Initially during the off-season, Chris would feel uneasy about the lull and take to working concrete jobs until he realized that it wasn't necessary to be busy all of the time. 
 
-"Year by year seeing what you need, what makes sense, and what helps you, your body, and your family".
+> "Year by year seeing what you need, what makes sense, and what helps you, your body, and your family".
 
 	Crops and soil and weather
 
@@ -96,9 +98,6 @@ If you need more structure within a section, use subsection headings (marked wit
 
 **Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
-
-
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
@@ -111,46 +110,17 @@ Images can also be left-aligned (use `class="left"`) or centered full-width (we'
 ## Motivation is family
 wife, two sons
 “Yeah, I have a lot of support, mainly my wife and kids. She's always been the number one cheerleader for me to keep doing.”
-“I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids”
-“Motivation is family. Working to help pay the bills and be with the family. That's mostly the motivation in my mind, getting to do what I love. Be outside, work with my hands, be here for the family if they need me. I think it's just family. It’s the biggest motivator.” 
+> “I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids”
+> “Motivation is family. Working to help pay the bills and be with the family. That's mostly the motivation in my mind, getting to do what I love. Be outside, work with my hands, be here for the family if they need me. I think it's just family. It’s the biggest motivator.” 
 Planting seeds and picking carrots with his sons. 
 
 
 
 ## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
 
 > This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
 
 Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
 
 
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
 
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
-
-
-## Ready to Create Your Own?
-
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
-
-**Already have a site based on a Xanthan template?** To make your own Seedling essay:
-
-1. **Duplicate this folder** (`scrollstories/seedling/`) and rename it for your topic
-2. **Replace the text** with your own content, keeping the same structure
-3. **Add your own images** to the `images/` folder
-4. **Update the header** at the top (title, author, date, etc.)
-5. **Preview and adjust** spacing, image sizes, and flow
-
-Start simple. Get comfortable with the basics. You can always add complexity later by copying and pasting elements from the other essays.
-
-{% include scrollybox/auto-scroll.html speed=1.5 %}

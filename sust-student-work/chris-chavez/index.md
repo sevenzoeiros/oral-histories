@@ -36,7 +36,7 @@ image-path="images/chrisandhisson.jpg"
 Casa Fresco Farm owner Chris Chavez got into farming through a mix of family influence, personal transformation, and a desire to create a better life for his children. Growing up in Albuquerque, Chris spent much of his childhood helping at his grandparents’ cattle ranch in the Chilili Land Grant. Those experiences outdoors gave him an appreciation for agriculture and food production from an early age. However, his path into farming did not fully begin until adulthood when he was working in concrete construction and became a father.
 Chris explained, 
 
-> “I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
+>“I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
 
 Wanting more time with his family, he decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
 Through the program, Chris learned farming skills and growing techniques. 
@@ -52,7 +52,7 @@ Notice the caption below the image includes a clickable source link. This is how
 
 To keep his business thriving, Chris states that farming and selling produce is his most important priority. He sells primarily at the Downtown Growers Market, MoGro, and New Mexico Harvest, with the addition of Three Sisters Kitchen and The American Friends Service Committee as occasional buyers. Some logistics in running an agricultural business includes getting insurance, food safety permits, and water tests covered, all of which have increased in costs in recent years -- i.e. a raw food permit went from being $15 in prior years to $50 in 2025. 
 
-> "Year by year seeing what you need, what makes sense, and what helps you, your body, and your family".
+>"Year by year seeing what you need, what makes sense, and what helps you, your body, and your family."
 
 Farming demands a plentiful selection of tools, so Chris's undeniable skill at innovation is opportune. With the help of a welder's tool, most likely a soldering iron, he built his own tiller from his kid's old bike and made a manual root washer with an attached spraying hose to wash produce. In addition to these, he uses a hand weeder and bed roller to tend to his land. Chris received grants from the Natural Resources Conservation Service (NRCS) for cover cropping seeds and his hoop house -- a contentious project with his neighbors; he was finally able to get it established underneath a massive cottonwood tree, a location he chose due to the pleasant heat bank that's formed around it. The Farmer's Market Association provided Chris with a grant to get his cold storage setup -- he uses CoolBot technology attached to a window AC unit within an insulated Tough Shed that keeps the indoor climate at 32-38 degrees fahrenheit for storing vegetables.
 

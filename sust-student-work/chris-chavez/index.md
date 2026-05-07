@@ -38,7 +38,7 @@ Chris explained,
 
 > “I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
 
-Wanting more time with his family, he decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
+wanting more time with his family, he decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
 Through the program, Chris learned farming skills and growing techniques. 
 >He said, “That’s where I learned the drip system and intensive growing — the 30 inch beds.” He immediately applied those lessons to his own property, 
 Explaining, “I learned it there and that same year I implemented everything that I was doing over there at this spot down here.”

@@ -1,16 +1,16 @@
 ---
-title: Chris Chavez Casa Fresco
+title: Chris Chavez Makes Casa Fresco Farm Possible
 author: Zoe Romans
 layout: scrollstory
 date: 2026-05-06
 thumbnail: images/casa-fresco-tomatoes.jpeg
-summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
+summary: Oral Histories webpage of Casa Fresco Farm in NM
 header-image: images/casa-fresco-tomatoes.jpeg
 header-title: Chris Chavez Casa Fresco
 header-position: 0px
 toc-section: first
 geo: [37.88, -81.08]
-placename: New River Gorge National Park
+placename: New Mexico
 tags:
     - sustainability
     - farms
@@ -20,9 +20,9 @@ tags:
 
 Narrated by: Chris Chavez
 
-Interviewed by: Anonymous grad student, Fall 2025 GEOG-589 Qualitative Methods class
+Interviewed by: Anonymous Graduate Student, Fall 2025 GEOG-589 Qualitative Methods Class
 
-Web Profile by: Zoë Romans and Ty Franco, Spring 2026 SUST-364 Local Food Systems Practicum class
+Web Profile by: Zoë Romans and Ty Franco, Spring 2026 SUST-364 Local Food Systems Practicum Class
 
 
 ## Getting into Farming…
@@ -47,17 +47,18 @@ Explaining, “I learned it there and that same year I implemented everything th
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 
-[^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
-
 ## What It's Like to be a Farmer in New Mexico
+
 To keep his business thriving, Chris states that farming and selling produce is his most important priority. He sells primarily at the Downtown Growers Market, MoGro, and New Mexico Harvest, with the addition of Three Sisters Kitchen and The American Friends Service Committee as occasional buyers. Some logistics in running an agricultural business includes getting insurance, food safety permits, and water tests covered, all of which have increased in costs in recent years -- i.e. a raw food permit went from being $15 in prior years to $50 in 2025. 
+
+> "Year by year seeing what you need, what makes sense, and what helps you, your body, and your family".
 
 Farming demands a plentiful selection of tools, so Chris's undeniable skill at innovation is opportune. With the help of a welder's tool, most likely a soldering iron, he built his own tiller from his kid's old bike and made a manual root washer with an attached spraying hose to wash produce. In addition to these, he uses a hand weeder and bed roller to tend to his land. Chris received grants from the Natural Resources Conservation Service (NRCS) for cover cropping seeds and his hoop house -- a contentious project with his neighbors; he was finally able to get it established underneath a massive cottonwood tree, a location he chose due to the pleasant heat bank that's formed around it. The Farmer's Market Association provided Chris with a grant to get his cold storage setup -- he uses CoolBot technology attached to a window AC unit within an insulated Tough Shed that keeps the indoor climate at 32-38 degrees fahrenheit for storing vegetables.
 
 {% include images/figure.html
 class="right"
-width="48%"
-caption="Chris in 2020 building the hoop house" [Source](https://www.facebook.com/casafrescofarm/photos)"
+width="50%"
+caption="Chris in 2020 building the hoop house [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/chris-hoop-house.jpeg"
 %}
 
@@ -67,9 +68,7 @@ image-path="images/chris-hoop-house.jpeg"
 
 There's a flexibility that's offered by being a farmer that can't be found in other professions. When Chris's wife's alternator broke, he found the time to replace it, when his boys need to get dropped off at school, he's able to take care of their needs. This by no means infers that it's an easy job, there's so much labor to do that when winter comes, it was initially troubling for Chris to discern what to do with his lessened workload. He took his days to fix and build things, along with "taking the time in the winter to contemplate, relax, and enjoy". Initially during the off-season, Chris would feel uneasy about the lull and take to working concrete jobs until he realized that it wasn't necessary to be busy all of the time. 
 
-> "Year by year seeing what you need, what makes sense, and what helps you, your body, and your family".
-
-	Crops and soil and weather
+### The Act of Planting
 
 One of Chris's favorite things about his work is the act of witnessing seeds grow and germinate. He's discovered the crop that really works for him and his land -- carrots. He plants them at the end of February or the beginning of March, lets them get to a sufficient size, then harvests a hefty quantity all at once, thanks to carrots not requiring daily harvesting. It's known that they grow easily, are simple to store, and readily sell. Some of the crops that bring some hassle to produce are okra, green beans, and snap peas which he may choose to skip some seasons due to their labor-intensity. There's some trouble in growing bell peppers and potatoes  Storage is a major consideration, and tomatoes, cucumbers, and lettuce are harder to wash, more finicky to grow, and don't last as long post-harvest.
 
@@ -86,9 +85,6 @@ Incorporating cover crops was challenging without tractors
 
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
 
 ### Subsection Headings (Optional)
 If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
@@ -112,12 +108,6 @@ wife, two sons
 Planting seeds and picking carrots with his sons. 
 
 
-
-## Block Quotes for Extended Quotations
-
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
 
 
 

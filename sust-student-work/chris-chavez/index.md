@@ -29,7 +29,7 @@ Web Profile by: Zoë Romans and Ty Franco, Spring 2026 SUST-364 Local Food Syste
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+caption="[Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
 image-path="images/chrisandhisson.jpg"
 %}
 
@@ -38,7 +38,7 @@ Chris explained,
 
 >“I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
 
-Wanting more time with his family, he decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
+Wanting more time with his family, Chris decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
 Through the program, Chris learned farming skills and growing techniques. 
 >He said, “That’s where I learned the drip system and intensive growing — the 30 inch beds.” He immediately applied those lessons to his own property, 
 

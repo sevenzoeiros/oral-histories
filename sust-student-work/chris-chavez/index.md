@@ -106,11 +106,10 @@ Chris’s family is the foundation of both his life and his work as a farmer. Mu
 
 >“I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids.” 
 
-Some of Chris’s favorite memories involve planting seeds and picking carrots with his sons when they were younger. He talks about them helping in the garden, using little rakes, harvesting vegetables, and eating carrots and turnips fresh from the field. These moments are especially meaningful to him because they allow him to share his love of farming and outdoor life with his children.
+    Some of Chris’s favorite memories involve planting seeds and picking carrots with his sons when they were younger. He talks about them helping in the garden, using little rakes, harvesting vegetables, and eating carrots and turnips fresh from the field. These moments are especially meaningful to him because they allow him to share his love of farming and outdoor life with his children.
 
-Chris also credits much of his success to the support of his wife. He says, “Yeah, I have a lot of support, mainly my wife and kids. She's always been the number one cheerleader for me to keep doing.” Her encouragement helped him continue farming even through difficult seasons. In the end, 
-
-Chris makes it clear what drives him most: 
+Chris also credits much of his success to the support of his wife. He says, “Yeah, I have a lot of support, mainly my wife and kids. She's always been the number one cheerleader for me to keep doing.” Her encouragement helped him continue farming even through difficult seasons. 
+In the end, Chris makes it clear what drives him most: 
 >“Motivation is family… It’s the biggest motivator.”
 
 

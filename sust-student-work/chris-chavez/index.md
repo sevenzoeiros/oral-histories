@@ -102,11 +102,17 @@ Images can also be left-aligned (use `class="left"`) or centered full-width (we'
 
 
 ## "Motivation is family"
+{% include images/figure.html
+class="right"
+width="48%"
+caption="[Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+image-path="images/casacasacasa.jpg"
+%}
 Chris’s family is the foundation of both his life and his work as a farmer. Much of his motivation comes from wanting to build a life where he can stay close to his wife and two sons while doing work he loves. Instead of continuing long hours in construction, he chose farming because it allowed him to be more present for his children. Chris explains, 
 
 {% include typography/aside.html class="right" text="“I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids.”" %}
 
-    Some of Chris’s favorite memories involve planting seeds and picking carrots with his sons when they were younger. He talks about them helping in the garden, using little rakes, harvesting vegetables, and eating carrots and turnips fresh from the field. These moments are especially meaningful to him because they allow him to share his love of farming and outdoor life with his children.
+Some of Chris’s favorite memories involve planting seeds and picking carrots with his sons when they were younger. He talks about them helping in the garden, using little rakes, harvesting vegetables, and eating carrots and turnips fresh from the field. These moments are especially meaningful to him because they allow him to share his love of farming and outdoor life with his children.
 
 Chris also credits much of his success to the support of his wife. He says, “Yeah, I have a lot of support, mainly my wife and kids. She's always been the number one cheerleader for me to keep doing.” Her encouragement helped him continue farming even through difficult seasons. 
 In the end, Chris makes it clear what drives him most: 

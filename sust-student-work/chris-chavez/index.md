@@ -96,6 +96,10 @@ Chris also credits much of his success to the support of his wife. He says, “Y
 In the end, Chris makes it clear what drives him most: 
 >“Motivation is family… It’s the biggest motivator.”
 
+{% include media/audio.html
+  src="audio/chrisaudioclipfamily
+  .mp3"
+%}
 
 
 

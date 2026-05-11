@@ -97,8 +97,7 @@ In the end, Chris makes it clear what drives him most:
 >“Motivation is family… It’s the biggest motivator.”
 
 {% include media/audio.html
-  src="audio/chrisaudioclipfamily
-  .mp3"
+  src="audio/chrisaudioclipfamily.mp3"
 %}
 
 

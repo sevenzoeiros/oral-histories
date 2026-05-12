@@ -108,7 +108,6 @@ Some of Chris’s favorite memories involve planting seeds and picking carrots w
   src="audio/chrisaudioclipfamily.mp3"
 %}
 
-
 Chris also credits much of his success to the support of his wife. He said, “Yeah, I have a lot of support, mainly my wife and kids. She's always been the number one cheerleader for me to keep doing.” Her encouragement helped him continue farming even through difficult seasons. In the end, Chris has made it clear what drives him most: 
 “Motivation is family… It’s the biggest motivator.”
 

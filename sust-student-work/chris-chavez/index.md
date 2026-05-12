@@ -35,7 +35,7 @@ image-path="images/chrisandhisson.jpg"
 
 Casa Fresco Farm owner Chris Chavez got into farming through a mix of family influence, personal transformation, and a desire to create a better life for his children. Growing up in Albuquerque, Chris spent much of his childhood helping at his grandparents’ cattle ranch in the Chilili Land Grant. Those experiences outdoors gave him an appreciation for agriculture and food production from an early age. However, his path into farming did not fully begin until adulthood when he was working in concrete construction and became a father.
 
->Chris explained, “I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
+>Chris explained, "I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
 
 Wanting more time with his family, Chris decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.
 Through the program, Chris learned farming skills and growing techniques. 
@@ -90,12 +90,14 @@ To successfully grow anything, one needs to understand the soil they're working 
 
 
 ## "Motivation is family"
+
 {% include images/figure.html
 class="right"
 width="50%"
 caption="Chris and his boys at the market [Source](https://www.facebook.com/casafrescofarm/photos)"
 image-path="images/chrisatmarket.jpg"
 %}
+
 Chris’s family is the foundation of both his life and his work as a farmer. Much of his motivation comes from wanting to build a life where he can stay close to his wife and two sons while doing work he loves. Instead of continuing long hours in construction, he chose farming because it allowed him to be more present for his children. 
 
 {% include typography/aside.html class="left" text=Chris explained, "I take my kids to school; I pick them up. So, that was a big part of farming in the first place. I knew that I would be able to do that, having it here at our house and wanting to be with the kids." %}
@@ -109,7 +111,6 @@ Some of Chris’s favorite memories involve planting seeds and picking carrots w
 
 Chris also credits much of his success to the support of his wife. He said, “Yeah, I have a lot of support, mainly my wife and kids. She's always been the number one cheerleader for me to keep doing.” Her encouragement helped him continue farming even through difficult seasons. In the end, Chris has made it clear what drives him most: 
 “Motivation is family… It’s the biggest motivator.”
-
 
 
 

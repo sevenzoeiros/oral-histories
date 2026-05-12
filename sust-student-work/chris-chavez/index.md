@@ -35,7 +35,6 @@ image-path="images/chrisandhisson.jpg"
 
 Casa Fresco Farm owner Chris Chavez got into farming through a mix of family influence, personal transformation, and a desire to create a better life for his children. Growing up in Albuquerque, Chris spent much of his childhood helping at his grandparents’ cattle ranch in the Chilili Land Grant. Those experiences outdoors gave him an appreciation for agriculture and food production from an early age. However, his path into farming did not fully begin until adulthood when he was working in concrete construction and became a father.
 
-
 >Chris explained, “I wanted to do something outside. What really got me into it was when our son was born, and I was working in concrete at the construction company. I changed because my son was born and we changed.” 
 
 Wanting more time with his family, Chris decided to leave construction work so that one parent could stay home with their son. While doing smaller concrete jobs on the side, he began thinking about returning to school and exploring careers connected to agriculture. This eventually led him to discover Albuquerque’s Grow the Growers program, which became a major turning point in his life.

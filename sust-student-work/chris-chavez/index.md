@@ -45,6 +45,13 @@ Through the program, Chris learned farming skills and growing techniques.
 
  The program gave him the confidence and knowledge to transform his small backyard garden into a successful farming operation rooted in family, sustainability, and community.
 
+ {% include images/figure.html
+class="right"
+width="60%"
+caption="Chris and his son at a market" [Source](https://www.facebook.com/casafrescofarm/photos)"
+image-path="images/casa-fresco-farm-boy.jpeg"
+%}
+
 ## What It's Like to be a Farmer in New Mexico
 
 To keep his business thriving, Chris states that farming and selling produce is his most important priority. He sells primarily at the Downtown Growers Market, MoGro, and New Mexico Harvest, with the addition of Three Sisters Kitchen and The American Friends Service Committee as occasional buyers. Some logistics in running an agricultural business includes getting insurance, food safety permits, and water tests covered, all of which have increased in costs in recent years -- i.e. a raw food permit went from being $15 in prior years to $50 in 2025. 
@@ -69,6 +76,14 @@ There's a flexibility that's offered by being a farmer that can't be found in ot
 ### The Act of Planting
 
 One of Chris's favorite things about his work is the act of witnessing seeds grow and germinate. He's discovered the crop that really works for him and his land -- carrots. He plants them at the end of February or the beginning of March, lets them get to a sufficient size, then harvests a hefty quantity all at once, thanks to carrots not requiring daily harvesting. It's known that they grow easily, are simple to store, and readily sell. Some of the crops that bring some hassle to produce are okra, green beans, and snap peas which he may choose to skip some seasons due to their labor-intensity. There's some trouble in growing bell peppers and potatoes  Storage is a major consideration, and tomatoes, cucumbers, and lettuce are harder to wash, more finicky to grow, and don't last as long post-harvest.
+
+  {% include images/figure.html
+class="left"
+width="70%"
+caption="A flying zucchini!" [Source](https://www.facebook.com/casafrescofarm/photos)"
+image-path="images/zucchini-chris.jpeg"
+%}
+
 
 {% include typography/aside.html class="right" text="Your soil needs to have that time to be off and have a break." %}
 
